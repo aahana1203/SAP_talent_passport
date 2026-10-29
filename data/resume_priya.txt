@@ -1,0 +1,29 @@
+PRIYA VERMA
+Lucknow, Uttar Pradesh | Age 28 | priya.verma@example.com
+
+SUMMARY
+Returning to work after a 3-year career break to care for a family member. Looking for a role in customer operations or data support.
+
+EDUCATION
+B.Com, Government Degree College, Lucknow (2017)
+
+WORK EXPERIENCE
+Customer Support Executive, telecom call centre, Lucknow (2018 - 2021)
+- Handled 80+ customer tickets per day by phone and chat
+- Kept customer satisfaction score above 90 percent for 2 years
+- Trained 5 new team members on the ticketing tool
+- Prepared the daily report of pending complaints in Excel
+
+CAREER BREAK (2021 - 2024): Family caregiving
+- Coordinated medical appointments, medicines and insurance claims for a parent, dealing with hospitals and insurers
+- Managed the household budget of about Rs 35,000 per month using a spreadsheet, tracking expenses and savings
+- Volunteered to run a 400-member neighbourhood WhatsApp group, organising blood-donation drives and sharing verified information
+- Gave free evening tuition in maths to 6 children from nearby homes
+
+SELF-LEARNING (2023 - 2024)
+- Completed free online courses in advanced Excel and beginner SQL
+- Built a personal expense dashboard in Google Sheets using formulas, pivot tables and charts
+- Currently exploring free modules on SAP Learning
+
+LANGUAGES
+Hindi (native), English (fluent)
