@@ -5,7 +5,7 @@ st.title("Sap-lings: connection test")
 
 client = genai.Client(api_key=st.secrets["GEMINI_API_KEY"].strip())
 
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-3.8-flash"
 
 if st.button("Test the AI"):
     try:
